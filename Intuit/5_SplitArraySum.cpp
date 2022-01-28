@@ -1,6 +1,8 @@
 #include<bits/stdc++.h> 
 using namespace std;
 
+// https://leetcode.com/problems/split-array-largest-sum/discuss/89819/C%2B%2B-Fast-Very-clear-explanation-Clean-Code-Solution-with-Greedy-Algorithm-and-Binary-Search
+// https://leetcode.com/problems/split-array-largest-sum/discuss/697057/C%2B%2B-0-ms-Heavily-Commented-Very-Easy-Binary-Search
 class Solution {
 private:
 
